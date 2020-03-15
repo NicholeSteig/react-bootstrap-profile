@@ -10,8 +10,8 @@ function Navbar() {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto">
-                <Link classname="navbar-brand" to="/portfolio">Portfolio</Link>
-                <Link classname="navbar-brand" to="/contact">Contact</Link>
+                {/* <Link classname="navbar-brand" to="/portfolio">Portfolio</Link>
+                <Link classname="navbar-brand" to="/contact">Contact</Link> */}
                 </Nav>
             </Navbar.Collapse>
         </Navbar>
